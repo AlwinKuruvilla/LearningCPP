@@ -15,5 +15,6 @@ In addition to this course, I'm learning to use Jetbrains' CLion IDE along with 
 Documentation I'll be using for reference can be found here:
 
 https://www.jetbrains.com/help/clion/2021.3/
+
 https://en.cppreference.com/w/
 
